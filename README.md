@@ -26,3 +26,11 @@ Que ce soit une déviation, un calendrier de fermeture ou simplement la gestion 
 * Gestion de son répertoire
 
 ## Phase 4 : Webex
+
+* Installation/Utilisation sur PC
+* Installation/Utilisation sur Smartphone
+
+## Phase 5
+
+* Conclusion
+* Liens utiles
