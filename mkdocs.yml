@@ -2,3 +2,8 @@ site_name: My Docs
 site_url: https://ccguide.radapel.be
 theme:
   name: material
+  palette: 
+    scheme: slate
+    primary: purple
+    accent: deep purple
+  
