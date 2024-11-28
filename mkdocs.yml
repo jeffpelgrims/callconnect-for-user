@@ -6,4 +6,7 @@ theme:
     scheme: slate
     primary: purple
     accent: deep purple
+  font:
+    text: Roboto
+    code: Roboto Mono
   
