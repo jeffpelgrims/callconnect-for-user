@@ -30,10 +30,12 @@ nav:
   - Accueil: https://ccguide.radapel.be
   - Administrateur:
     - 'Pour commencer':
-      - 'Identifiant': Administrateur/username.md
-    - "Groupe d'appel":
-      - 'Description': Administrateur/huntgroup_info.md
-    - 'Calendrier de fermeture':
+      - "La page de la plate-forme": Administrateur/username.md
+      - "La page d'accueil": Administrateur/home.md
+    - "Flux d'appels":
+      - 'Accueil': Administrateur/callflow_info.md
+      - 'Menu Vocal Interactif (IVR)': Administrateur/ivr.md
+    - 'Calendriers':
       - 'Description': Administrateur/calendar_info.md
       - "Création d'un calendrier": Administrateur/calendar_create.md
       - 'Déviation de nuit': Adminstrateur/calendar_nightfwd.md
@@ -46,6 +48,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+  - pymdownx.blocks.caption
 
 copyright: Copyright &copy; 2024 Pelgrims Jean-François
 
