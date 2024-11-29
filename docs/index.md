@@ -1,17 +1,25 @@
-# Welcome to MkDocs
+# Accueil
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bienvenue sur ce guide de la plate-forme Call Connect de Proximus !
 
-## Commands
+Si vous souhaitez des informations sur ce produits, veuillez consulter cette page [Bizz Call Connect](https://www.proximus.be/fr/id_cb_call_connect/independants-et-petites-entreprises/telephonie-cloud-cybersecurite-marketing-digital/bizz-call-connect.html)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## But de ce guide
 
-## Project layout
+Ce guide a pour but de vous aider dans la gestion du portail Call Connect. En effet je remarque que beaucoup d'utilisateur ne l'utilise pas ou l'utilise mal.
+Grâce à ce site, vous allez arriver à gérer vos appels, vos déviations, votre call center mais aussi le calendrier de fermeture et d'autres aspect pratique du produit.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## A qui s'adresse ce guide ?
+
+Ce guide s'adresse aussi bien à l'utilisateur direct du Call Connect qu'à l'IT qui gère toute l'infrastructure de la téléphonie du client.
+
+## De quoi avez-vous besoin ?
+
+* D'un ordinateur ou d'une tablette, bien que la plate-forme soit accessible par smartphone, la petite taille de ce dernier est un frein à une bonne navigation sur le site.
+* Vos identifiants, les identifiants administrateur vous ont été envoyé par mail avant la visite du technicien. Si vous ne les avez pas vous pouvez appeler le 0800/33.500 pour vous aider à les créer.
+
+## Informations utiles
+
+* Si vous utilisez Google Chrome il se peut que, lorsque vous arrivez sur le site, vous ayez une page blanche. C'est un bug causé par le traducteur automatique de Chrome. Il faut le désactiver pour la plate-forme Call Connect.
+* Voici l'adresse du site Call Connect [https://callconnect.proximus.be](https://callconnect.proximus.be).
+* Si vous avez le moindre soucis avec le produit n'hésitez pas à contacter le 0800/33.500, nos experts sont à votre service.

@@ -1,6 +1,9 @@
-site_name: Guide Call Connect pour les utilisateurs
+site_name: Guide Call Connect
 site_url: https://ccguide.radapel.be
 theme:
+  icon: 
+    logo: material/apple-keyboard-command
+  favicon: images/favicon.png
   name: material
   language: fr
   palette: 
@@ -10,4 +13,48 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+  features:
+    - content.tabs.link
+    - header.autohide
+    - navigation.footer
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+
+nav:
+  - Accueil: https://ccguide.radapel.be
+  - Administrateur:
+    - 'Pour commencer':
+      - 'Identifiant': Administrateur/username.md
+    - "Groupe d'appel":
+      - 'Description': Administrateur/huntgroup_info.md
+    - 'Calendrier de fermeture':
+      - 'Description': Administrateur/calendar_info.md
+      - "Création d'un calendrier": Administrateur/calendar_create.md
+      - 'Déviation de nuit': Adminstrateur/calendar_nightfwd.md
+  - Utilisateur:
+    - 'Pour commencer':
+      - 'Identifiant': Utilisateur/username.md
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+copyright: Copyright &copy; 2024 Pelgrims Jean-François
+
+extra:
+  generator: true
+  social:
+    - icon: material/apple-keyboard-command
+      link: https://www.proximus.be
+    - icon: material/youtube
+      link: https://www.youtube.com/@proximus
+    
   
