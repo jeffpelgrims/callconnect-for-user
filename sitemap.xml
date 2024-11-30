@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://ccguide.radapel.be/</loc>
+         <lastmod>2024-11-30</lastmod>
+    </url>
+    <url>
+         <loc>https://ccguide.radapel.be/Administrateur/callflow_info/</loc>
+         <lastmod>2024-11-30</lastmod>
+    </url>
+    <url>
+         <loc>https://ccguide.radapel.be/Administrateur/home/</loc>
+         <lastmod>2024-11-30</lastmod>
+    </url>
+    <url>
+         <loc>https://ccguide.radapel.be/Administrateur/ivr/</loc>
+         <lastmod>2024-11-30</lastmod>
+    </url>
+    <url>
+         <loc>https://ccguide.radapel.be/Administrateur/user/</loc>
+         <lastmod>2024-11-30</lastmod>
+    </url>
+    <url>
+         <loc>https://ccguide.radapel.be/Administrateur/username/</loc>
+         <lastmod>2024-11-30</lastmod>
+    </url>
+    <url>
+         <loc>https://ccguide.radapel.be/Utilisateur/username/</loc>
+         <lastmod>2024-11-30</lastmod>
+    </url>
+</urlset>
