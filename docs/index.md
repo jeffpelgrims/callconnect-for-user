@@ -20,7 +20,7 @@ Ce guide s'adresse aussi bien à l'utilisateur direct du Call Connect qu'à l'IT
 
 ## Informations utiles
 
-![Image de l'onglet Google translate](images/cc_googletranslate.png){ aligne=left }
+![Image de l'onglet Google translate](images/cc_googletranslate.png){ align=left }
 
 Si vous utilisez Google Chrome il se peut que, lorsque vous arrivez sur le site, vous ayez une page blanche. C'est un bug causé par le traducteur automatique de Chrome. Il faut le désactiver pour la plate-forme Call Connect.
 
